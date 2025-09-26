@@ -1,9 +1,9 @@
 # CVE-2023-45612 Reproduction Steps
 
-### Prerequisites
-- **Java 11 or later**
-- **Gradle 7.0+**
-- **Python 3.6+** (for POC script)
+### My Versions
+- **Java 17**
+- **Gradle 8.14.3**
+- **Python 3.13.7** (for POC script)
 
 ### Steps
 
